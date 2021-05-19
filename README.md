@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaijoAntony
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me raijoantony333@gmail.com
 
 <!---
